@@ -1,0 +1,133 @@
+    header#pq-header .pq-bottom-header .navbar .navbar-brand img {
+        height: 80px;
+    }
+
+    footer#pq-footer .pq-footer-logo {
+        height: 80px;
+        width: auto;
+    }
+
+    @media screen and (min-width:767px) {
+        .pq-breadcrumb {
+            padding-bottom: 100px !important;
+        }
+    }
+
+    @media screen and (max-width:576px) {
+
+        .pq-counter-style-1 .pq-counter-info h5 {
+            font-size: 40px;
+            line-height: 40px;
+        }
+
+        .text-mobil-center {
+            text-align: center;
+            justify-content: center;
+            display: flex;
+        }
+
+        header#pq-header .pq-bottom-header .navbar .navbar-brand img {
+            height: 70px !important;
+        }
+
+        footer#pq-footer .pq-footer-logo {
+            height: 70px !important;
+            width: auto;
+        }
+
+        .text-mobile-center {
+            text-align: center !important;
+        }
+
+        .pq-copyright {
+            line-height: normal;
+        }
+    }
+
+    .active-clr {
+        color: #e6af5d !important;
+    }
+
+    footer#pq-footer .widget ul.pq-contact li i {
+        display: inline;
+    }
+
+    .pq-service-img {
+        height: 300px !important;
+    }
+
+    .pq-service-img img {
+        height: 100% !important;
+        object-fit: cover !important;
+    }
+
+    .contact-us p {
+        line-height: 26px;
+    }
+
+    #menu-product-menu li {
+        margin-right: 10px !important;
+    }
+
+    textarea {
+        height: 150px;
+    }
+
+    .shadow_card .pq-service-box {
+        box-shadow: 1px 2px 3px grey;
+    }
+
+    .sub-menu li {
+        margin-bottom: 0px !important;
+    }
+
+    header#pq-header .pq-bottom-header .navbar .navbar-nav li .sub-menu li a {
+        padding: 5px 10px;
+    }
+
+    .pq-breadcrumb.contact {
+        background: url('../images/Breadcrumb/contact.webp');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+
+    .pq-breadcrumb.cat {
+        background: url('../images/Breadcrumb/cat.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+
+    .pq-breadcrumb.port {
+        background: url('../images/Breadcrumb/port.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .pq-breadcrumb.pro {
+        background: url('../images/Breadcrumb/pro.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .pq-breadcrumb.about {
+        background: url('../images/Breadcrumb/about.jpg');
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+    }
+
+    .pq-breadcrumb {
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+@media screen and (min-width:991px) {
+
+}
